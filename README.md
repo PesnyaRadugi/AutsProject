@@ -1,6 +1,6 @@
 # AutsProject
 To start project:
-1) If application.properties doesn't already contain, the put spring.profiles.active=dev in it
+1) If application.properties doesn't already contain, then put spring.profiles.active=dev in it
 2) Create application-dev.properties file in resource directory
 3) Fill the following properties:
     spring.application.name=(your_projectName)

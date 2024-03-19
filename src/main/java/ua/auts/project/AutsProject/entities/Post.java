@@ -1,4 +1,4 @@
-package ua.auts.project.AutsProject.models;
+package ua.auts.project.AutsProject.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

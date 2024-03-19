@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import ua.auts.project.AutsProject.models.Article;
+import ua.auts.project.AutsProject.entities.Article;
 import ua.auts.project.AutsProject.repo.ArticleRepository;
 
 
