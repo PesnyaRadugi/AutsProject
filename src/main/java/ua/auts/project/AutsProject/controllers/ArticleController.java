@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import ua.auts.project.AutsProject.entities.Article;
-import ua.auts.project.AutsProject.repo.ArticleRepository;
+import ua.auts.project.AutsProject.repositories.ArticleRepository;
 
 
 @Controller
@@ -50,4 +50,5 @@ public class ArticleController {
         model.addAttribute("article", article);
         return "articles-details";
     }
+
 }

@@ -1,4 +1,4 @@
-package ua.auts.project.AutsProject.repo;
+package ua.auts.project.AutsProject.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 

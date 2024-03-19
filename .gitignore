@@ -34,3 +34,4 @@ build/
 
 ### Env var ###
 application-dev.properties
+.env
